@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>David Espejo&#39;s notes</title>
-        <link>https://davidmirror.dev/</link>
+        <link>https://davidmirror-ops.github.io/blog/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.111.3 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 23 May 2023 05:16:09 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:21:38 -0500</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://davidmirror.dev/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://davidmirror-ops.github.io/blog/rss.xml" />
         
         
             <item>
                 <title>Helm Intro</title>
-                <link>https://davidmirror.dev/posts/helm-intro/</link>
-                <guid isPermaLink="true">https://davidmirror.dev/posts/helm-intro/</guid>
+                <link>https://davidmirror-ops.github.io/blog/posts/helm-intro/</link>
+                <guid isPermaLink="true">https://davidmirror-ops.github.io/blog/posts/helm-intro/</guid>
                 <pubDate>Fri, 12 May 2023 05:17:01 -0500</pubDate>
                 
                     <author>espejo.david@gmail.com (David Espejo)</author>
