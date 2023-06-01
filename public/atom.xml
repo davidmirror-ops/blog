@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">David Espejo&#39;s notes</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-05-31T05:37:24-05:00</updated>
+    <updated>2023-06-01T05:17:18-05:00</updated>
     <id>http://www.davidmirror.dev/</id>
     <link rel="alternate" type="text/html" href="http://www.davidmirror.dev/" />
     <link rel="self" type="application/atom&#43;xml" href="http://www.davidmirror.dev/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Intro to Helm</title>
             <link rel="alternate" type="text/html" href="http://www.davidmirror.dev/posts/intro-to-helm/" />
             <id>http://www.davidmirror.dev/posts/intro-to-helm/</id>
-            <updated>2023-05-31T05:07:31-05:00</updated>
+            <updated>2023-06-01T05:15:47-05:00</updated>
             <published>2023-05-29T05:24:08-05:00</published>
             <author>
                     <name>David Espejo</name>
